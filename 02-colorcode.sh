@@ -13,3 +13,6 @@
 syntax = echo -e "\e[COLORCODEm your text '\e[0m"
 
 echo -e "\e[31m all is printing red \e[0m"
+echo -e "\e[32m printing in green color \e[0m"
+echo -e "\e[33m printinf in yellow color \e[0m"
+echo -e "/e[34m printing in blue \e[0m"
