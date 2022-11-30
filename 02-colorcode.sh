@@ -18,3 +18,4 @@ echo -e "\e[33m printinf in yellow color \e[0m"
 echo -e "\e[34m printing in blue \e[0m"
 
 # chnages
+echo -e "\e[35m new color print \e[0m]"
