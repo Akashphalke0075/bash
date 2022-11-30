@@ -11,4 +11,4 @@ echo -e "line3\nline4"
 
 # update all changes
 
-echo -e "LINE5\nLINE6"
+echo -e "LINE5\nLINE6\tLINE7"
