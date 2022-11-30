@@ -7,4 +7,4 @@ echo line 2
 
 # chnge shanbang en traducer 
 
-echo -e "line3/n/line4"
+echo -e "LINE3|n|LINE4"
